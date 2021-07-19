@@ -1,0 +1,4 @@
+Cricket bat is made up of wood.
+Cricket bat has a handle.
+Cricket bat is strong.
+Cricket bat is used to hit the ball.

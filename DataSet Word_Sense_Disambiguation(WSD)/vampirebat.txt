@@ -1,0 +1,5 @@
+Mammal Bat can fly.
+Mammal Bat is black in colour.
+Mammal Bat has wings.
+Mammal bat gives birth.
+Mammal bat can see at night.
